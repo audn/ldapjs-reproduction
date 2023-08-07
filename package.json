@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.1",
+    "jwks-rsa": "^3.0.1",
+    "ldapjs": "^3.0.3"
+  }
+}
